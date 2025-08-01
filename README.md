@@ -49,7 +49,7 @@ I2C LCD
 
 > Adjust GPIO numbers to whatever you physically used; document that here.
 
-## 🧪 Software / Code
+Software / Code
 
 ### Dependencies
 - Arduino core for ESP32 (if using Arduino IDE / PlatformIO)
