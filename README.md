@@ -1,10 +1,10 @@
 # Sonar Distance Meter with ESP32 & I2C 16x2 Display
 ---
 
-## 👤 Author
+## Author
 
 **Aditto Ahsanul Kabir**  
-- 📧 Email: aditto.ahsanul@example.com  
+- 📧 Email: akaditto.kushtia@gmail.com  
 - 🐙 GitHub: [AdittoAhsanul](https://github.com/Adittooooo)  
 - 💼 LinkedIn: [Aditto Ahsanul](https://www.linkedin.com/in/aditto-ahsanul/)  
 
