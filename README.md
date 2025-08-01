@@ -1,4 +1,15 @@
 # Sonar Distance Meter with ESP32 & I2C 16x2 Display
+---
+
+## 👤 Author
+
+**Aditto Ahsanul Kabir**  
+- 📧 Email: aditto.ahsanul@example.com  
+- 🐙 GitHub: [AdittoAhsanul](https://github.com/Adittooooo)  
+- 💼 LinkedIn: [Aditto Ahsanul](https://www.linkedin.com/in/aditto-ahsanul/)  
+
+If you find this project useful, don’t forget to ⭐ the repo!
+
 
 A simple project that measures distance using an ultrasonic sensor and displays the result on an I2C 16x2 LCD using an ESP32. Ideal for learning basic sensor interfacing, I2C, and microcontroller I/O.
 
